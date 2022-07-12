@@ -17,28 +17,26 @@
     <header class="container">
         <nav class="navbar navbar-expand-md mb-4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarCollapse">
                     <ul class="navbar-nav me-auto mb-2 mb-md-0">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.html">Inicio</a>
+                            <a class="nav-link" href="index.php">Inicio</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link active" href="sobre-mi.html">Sobre mí</a>
+                            <a class="nav-link active" href="sobre-mi.php">Sobre mí</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="proyectos.html">Proyectos</a>
+                            <a class="nav-link" href="proyectos.php">Proyectos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contacto.html">Contacto</a>
+                            <a class="nav-link" href="contacto.php">Contacto</a>
                         </li>
                     </ul>
                     <div class="d-inline">
-                        <a href="https://drive.google.com/file/d/1VYXmkcl3HJLoDo65xQxRwxwBqz-yEdtv/view?usp=sharing"
-                            class="btn btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
+                        <a href="https://drive.google.com/file/d/1VYXmkcl3HJLoDo65xQxRwxwBqz-yEdtv/view?usp=sharing" class="btn btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
                     </div>
                 </div>
             </div>
@@ -56,8 +54,7 @@
                         Cuento con experiencia en atención al cliente durante años y en distintos rubros.</p>
                 </div>
                 <div class="col-sm-3 col-12 mt-4 offset-sm-2">
-                    <img src="../portfolio/images/imagenlucas.png" alt="Lucas Ezequiel Oviedo"
-                        title="Lucas Ezequiel Oviedo" class="img-fluid img-circle">
+                    <img src="../portfolio/images/imagenlucas.png" alt="Lucas Ezequiel Oviedo" title="Lucas Ezequiel Oviedo" class="img-fluid img-circle">
                 </div>
             </div>
         </section>
@@ -72,43 +69,37 @@
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Javascript</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1209/javascript.jpeg">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1209/javascript.jpeg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>PHP</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>HTML5</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/2538/kEpgHiC9.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>React.js</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1020/OYIaJ1KK.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>jQuery</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Bootstrap</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1101/C9QJ7V3X.png">
                         </div>
                     </div>
                 </div>
@@ -116,43 +107,37 @@
                     <div class="col-sm-2 col-6">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Laravel</h3>
-                            <img class="img-fluid d-block mx-auto" width="90"
-                                src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
+                            <img class="img-fluid d-block mx-auto" width="90" src="https://depcsuite.com/wp-content/uploads/2019/08/220px-Laravel.svg_.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>MySQL</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1615/mariadb-logo-400x400.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>CSS</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/6727/css.png">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/6727/css.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Git</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/1046/git.png">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/1046/git.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Apache</h3>
-                            <img class="img-fluid d-block mx-auto" width="110"
-                                src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
+                            <img class="img-fluid d-block mx-auto" width="110" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Apache_Software_Foundation_Logo_%282016%29.svg/1200px-Apache_Software_Foundation_Logo_%282016%29.svg.png">
                         </div>
                     </div>
                     <div class="col-sm-2 col-6 text-center">
                         <div class="px-4 py-5 card mx-0 mb-4 mb-sm-0">
                             <h3>Mercadopago</h3>
-                            <img class="img-fluid d-block mx-auto" width="60"
-                                src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
+                            <img class="img-fluid d-block mx-auto" width="60" src="https://img.stackshare.io/service/12698/gUjuxmmd_400x400.jpg">
                         </div>
                     </div>
                 </div>
@@ -181,8 +166,7 @@
                 <div class="col-12">
                     <div class="row">
                         <div class="col-2 p-5 my-auto d-none d-sm-block">
-                            <img src="../portfolio/images/Carlos.png" class="img-fluid baw"
-                                title="Amortiguadores Carlos">
+                            <img src="../portfolio/images/Carlos.png" class="img-fluid baw" title="Amortiguadores Carlos">
                         </div>
                         <div class="col-12 col-sm-10 p-3">
                             <h3>Operario</h3>
@@ -245,8 +229,7 @@
                 <div class="col-12 col-sm-6">
                     <div class="row">
                         <div class="col-2 py-3 my-auto d-none d-sm-block">
-                            <img src="../portfolio/images/rivadavia.jfif" class="img-fluid baw"
-                                title="EEM N2 Bernardino Rivadavia">
+                            <img src="../portfolio/images/rivadavia.jfif" class="img-fluid baw" title="EEM N2 Bernardino Rivadavia">
                         </div>
                         <div class="col-12- col-sm-10 p-3">
                             <h3>Bachiller en Ciencias Sociales</h3>
