@@ -47,7 +47,7 @@
             <div class="row">
                 <div class="col-sm-5 col-12 mt-4">
                     <h1>Sobre mi</h1>
-                    <p>Me considero una persona pro-activa y multitask con excelente adaptación al cambio adaptándome
+                    <p>Me considero una persona pro-activa y multitask con excelente adaptación al cambio, adaptándome
                         así, a distintos ambientes laborales.
                         Estoy en constante búsqueda de nuevos aprendizajes y predispuesto a aprender nuevos oficios. Soy
                         capaz de cumplir con cualquier tarea que me sea asignada, con excelente y responsabilidad.
