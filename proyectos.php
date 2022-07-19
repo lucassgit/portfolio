@@ -1,5 +1,5 @@
-<?php 
-   $pg = "proyectos";
+<?php
+  $pg = "proyectos";
 ?>
 
 <!DOCTYPE html>
