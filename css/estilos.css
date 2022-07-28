@@ -36,6 +36,12 @@ body {
     background-repeat: no-repeat;
 }
 
+#confirmacion-envio {
+    background-image: url(../images/fondo-contacto.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 #idiomas .card-idioma {
     border-radius: 15px;
 }
@@ -152,7 +158,8 @@ body {
 }
 
 #contacto,
-#inicio {
+#inicio,
+#confirmacion-envio {
     background-image: url(../images/fondo-contacto.png);
     background-size: cover;
     background-repeat: no-repeat;
@@ -322,6 +329,18 @@ footer a {
     }
 
     #proyectos {
+        background-image: url("../images/fondo-proyectos.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    #index {
+        background-image: url("../images/fondo-proyectos.png");
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    #sobre-mi {
         background-image: url("../images/fondo-proyectos.png");
         background-size: contain;
         background-repeat: no-repeat;

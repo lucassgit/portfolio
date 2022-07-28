@@ -1,5 +1,7 @@
 <?php
+
   $pg = "proyectos";
+
 ?>
 
 <!DOCTYPE html>

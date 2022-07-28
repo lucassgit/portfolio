@@ -20,6 +20,7 @@
                         <li class="nav-item">
                             <a class="nav-link <?php echo ($pg == "contacto")? "active" : "";?>" href="contacto.php">Contacto</a>
                         </li>
+                        
                     </ul>
                     <div class="d-inline">
                         <a href="" class="btn btn-rojo">Descargar mi CV <i class="fas fa-download"></i></a>
